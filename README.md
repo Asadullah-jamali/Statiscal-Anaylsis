@@ -1,2 +1,2 @@
 # Statiscal-Anaylsis
-statiscal tool used in real life
+multiple statiscal anaylsis used in real life 
